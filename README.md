@@ -28,10 +28,8 @@ We strongly believe that GeoHash filtering applied to TCL Kids Smartwatches such
 
 # How to Install and Test
 
-1 google api key
-2 uygulama yüklendikten sonra konum izni verilecek
-
-
+* Obtain a Google API key for Google Maps.
+* Install the app ang give the required location permissions.
 
 # Referance
 
