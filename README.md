@@ -22,6 +22,10 @@ We have developed a sample android application to address this problem. We devel
 
 As seen from the above images, usage of GeoHash filtering improves GPS location accuracy inside the buildings.
 
+The number in the bottom middle of the screen indicated as 8, represents the hash length. The user can increase or decrease the hash length in order to change filtering accuracy.
+
+Raw means the total mount of GPS location data points taken from the GPS sensor. Filter means the amount of filtered GPS location data points.
+
 # Conclusions and Recommendations
 
 We strongly believe that GeoHash filtering applied to TCL Kids Smartwatches such as the locational accuracy inside the building will be improved significantly.
